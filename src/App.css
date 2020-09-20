@@ -23,6 +23,23 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+.profil {
+cursor: pointer;
+background-color: rgb(55, 112, 168);
+font-size: 20px;
+border-radius: 3px;
+color: rgb(247, 245, 246);
+margin: 0 1em;
+padding: 0.25em 1em;
+transition: 0.5s all ease-out;
+font-family: "Arial"
+}
+.image{   
+  color: white;
+  background-color: DodgerBlue;
+  padding: 10px ;
+  font-family: Arial ;
+}
 
 .App-link {
   color: #61dafb;
